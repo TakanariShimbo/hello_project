@@ -12,6 +12,9 @@ conda activate python310_hello
 pip install -r requirements.txt
 ```
 
+# 初期設定
+.env_sample を .env として複製し、SOMETHING_KEYを適切にセットしてください。
+
 # 実行方法
 ```
 python hello.py
