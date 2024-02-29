@@ -17,5 +17,5 @@ pip install -r requirements.txt
 
 # 実行方法
 ```
-python hello.py
+streamlit run hello.py
 ```
